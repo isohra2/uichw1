@@ -26,7 +26,7 @@ int main(int argc,char* argv[]){
   int ridiculous = 2221;
   int to_Compile = 2213;
   long symbols;
-printf("isohra2\n");
+printf ("isohra2 %d %ld\n", 10, 650000L);
 
 the_code[1] += 1;
 
