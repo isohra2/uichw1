@@ -7,8 +7,8 @@ static int I_have_written()
 	return DerrickRose;
 }
 
-int to_compile[3] = {0, 0, 0};
-static int the_code[3] = {0, 0, 0};
+static int to_compile[1] = {10};
+
 
 static that_you_needed()
 {
@@ -21,6 +21,9 @@ void sides_and()
 {
 }
 
+static int the_code[3] = {24, 8, 25};
+
+
 int main(int argc,char* argv[]){
   int has_a_bunch_of = 2220;
   int ridiculous = 2221;
@@ -28,7 +31,7 @@ int main(int argc,char* argv[]){
   long symbols;
 printf ("isohra2 %d %ld\n", 10, 650000L);
 
-the_code[1] += 1;
+  the_code[1] += 1;
 
   to_Compile++;
   has_a_bunch_of++;
